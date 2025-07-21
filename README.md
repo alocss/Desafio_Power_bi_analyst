@@ -1,12 +1,4 @@
-# Eai ! Eu sou o Alex Ribeiro.
 
-💻 Futuro DEV ( mais perto do que nunca ).
-
-📚 Estudando Pyhton.
-
-📲 Marketing Digital. 
-
-🖥️ Ciência de Dados. 
 
 # Santander Bootcamp 2023 - Ciência de Dados com Python
 
